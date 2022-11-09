@@ -1,0 +1,23 @@
+{
+  "name": "makarov",
+  "version": "1.0.0",
+  "description": "A secure &amp; highly customizable bot manager for teams.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnowLynxSoftware/makarov.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SnowLynxSoftware/makarov/issues"
+  },
+  "homepage": "https://github.com/SnowLynxSoftware/makarov#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
