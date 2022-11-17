@@ -1,3 +1,6 @@
 # Build & Dependencies
 node_modules
 dist
+
+# IDE
+.idea
